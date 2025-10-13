@@ -256,15 +256,3 @@ We welcome contributions from the community! Here's how you can help:
 For questions, suggestions, or support:
 - Create an issue in the GitHub repository
 - Contact the development team
-- Join our community discussions
-
-## Roadmap
-
-### Upcoming Features
-- Mobile application (React Native)
-- Multi-language support
-- Advanced analytics dashboard
-- Integration with veterinary services
-- Donation and fundraising system
-- Social media integration
-- Offline functionality for field operations
